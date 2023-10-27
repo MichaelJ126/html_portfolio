@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+/* nav{
+    display: flex;
+    width: 50%;
+    margin-right: 80%;
+    padding: 20px 0;
+    justify-content: space-between;
+} */
+
+.puppy{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+   
+}
+
+.navigation a {
+    justify-content: center;
+    font-size: 1.1em;
+    color: black;
+    text-decoration: none;
+    margin-left: 200px;
+    font-weight: 300;
+  
+}
+
+/* h1{
+    margin-bottom: 0%;
+   
+} */
+
+h1{
+    color: black;
+    font-size: 500%;
+    margin-left: 30%;
+    margin-top: 15%;
+  
+}
+
+p{
+    margin-left: 40%;
+    margin-top: 2%;
+  
+}
+
+pre{
+    margin-top: 3%;
+    margin-left: 12%;
+   
+}
+
+button{
+    margin-left: 42%;
+    margin-top: 5%;
+    font-size: 100%;
+    width: 15%;
+    height: 50px;
+    border-color: blue;
+    color: brown;
+}
+
+.paw{
+    float: right;
+    width: 120px;
+    margin-right: 23%;
+    margin-top: -1.5%;
+    
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.par{
+    margin-left: 12%;
+    margin-top: 1%;
+}
+
+.URL{
+    margin-left: 44%;
+   
+   
+}
